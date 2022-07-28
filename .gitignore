@@ -1,2 +1,4 @@
 venv/
 .vscode/
+# submission files
+output_*.csv
