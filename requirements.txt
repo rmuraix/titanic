@@ -3,7 +3,7 @@ asttokens==2.0.5
 attrs==22.1.0
 autopage==0.5.1
 backcall==0.2.0
-cliff==3.10.1
+cliff==4.0.0
 cmaes==0.8.2
 cmd2==2.4.2
 colorama==0.4.5
