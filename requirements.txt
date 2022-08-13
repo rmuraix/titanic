@@ -54,7 +54,7 @@ scipy==1.9.0
 seaborn==0.11.2
 six==1.16.0
 sklearn==0.0
-SQLAlchemy==1.4.39
+SQLAlchemy==1.4.40
 stack-data==0.3.0
 stevedore==4.0.0
 threadpoolctl==3.1.0
