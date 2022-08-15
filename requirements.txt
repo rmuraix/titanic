@@ -1,5 +1,5 @@
 alembic==1.8.1
-asttokens==2.0.7
+asttokens==2.0.8
 attrs==22.1.0
 autopage==0.5.1
 backcall==0.2.0
