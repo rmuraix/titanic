@@ -37,7 +37,7 @@ pbr==5.10.0
 pickleshare==0.7.5
 Pillow==9.2.0
 prettytable==3.4.0
-prompt-toolkit==3.0.30
+prompt-toolkit==3.0.31
 psutil==5.9.1
 pure-eval==0.2.2
 Pygments==2.13.0
