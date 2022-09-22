@@ -23,7 +23,7 @@ jupyter-client==7.3.5
 jupyter-core==4.11.1
 kiwisolver==1.4.4
 lightgbm==3.3.2
-Mako==1.2.2
+Mako==1.2.3
 MarkupSafe==2.1.1
 matplotlib==3.6.0
 matplotlib-inline==0.1.6
