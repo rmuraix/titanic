@@ -27,7 +27,7 @@ Mako==1.2.3
 MarkupSafe==2.1.1
 matplotlib==3.6.0
 matplotlib-inline==0.1.6
-nest-asyncio==1.5.5
+nest-asyncio==1.5.6
 numpy==1.23.3
 optuna==3.0.2
 packaging==21.3
