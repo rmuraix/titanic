@@ -1,6 +1,6 @@
 numpy==1.26.1
 pandas==2.1.2
-matplotlib==3.8.0
+matplotlib==3.8.1
 seaborn==0.13.0
 xgboost==1.7.6
 lightgbm==3.3.5
